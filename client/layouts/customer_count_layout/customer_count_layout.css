@@ -1,0 +1,18 @@
+ul {
+    display: block;
+    text-align: center;
+}
+
+li {
+    font-weight: bold;
+    font-size: 1.3em;
+    padding: 8px 0px 0px 5px;
+
+}
+
+.nav{
+    width:20%;    /*set(List width[ul]) width for for the list else it will take the full screen width*/
+}
+.nav-pills {
+    float: none; /*float left makes the list inline*/
+}
